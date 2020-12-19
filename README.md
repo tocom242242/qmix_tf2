@@ -18,7 +18,7 @@ python main.py
 
 Then, outputs episode reward and qmix's loss history graph.
 
-![result](https://github.com/tocom242242/qmix_tf2/blob/master/result.png)
+![result](https://github.com/tocom242242/qmix_tf2/blob/master/reward_loss_history.png)
 
 
 ## Reference
