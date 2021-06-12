@@ -1,6 +1,6 @@
 # QMIX implemented in TensorFlow 2
 
-None: Currently, we are only experimenting with Two State Game.
+Note: Currently, we are only experimenting with Two State Game.
 
 ## How to run QMIX in Two State Game
 
